@@ -1,2 +1,2 @@
 # my-webtest-file
-test for some website
+test for some websites
